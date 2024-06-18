@@ -17,5 +17,5 @@ The map below shows the spatial distribution of all 1033 traffic sensors in Glas
 
 ## Funding 
 
-This project is funded by the China Scholarship Council (CSC) from the Ministry of Education of P.R. China, the [Economic and Social Research Council (ESRC)]’s ongoing support for the Urban Big Data Centre (UBDC) [ES/L011921/1 and ES/S007105/1], and the Royal Society International Exchange Scheme [IEC\NSFC\223042].
+This project is funded by the China Scholarship Council (CSC) from the Ministry of Education of P.R. China, the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/)’s ongoing support for the Urban Big Data Centre (UBDC) [ES/L011921/1 and ES/S007105/1], and the Royal Society International Exchange Scheme [IEC\NSFC\223042].
 
