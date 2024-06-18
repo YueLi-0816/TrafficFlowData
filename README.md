@@ -8,4 +8,4 @@ All the code related to the traffic flow data is available in this repository (<
 
 The map below shows the spatial distribution of all 1033 traffic sensors in Glasgow.
 
-![Traffic sensors](/plots/sensors.png)
+![Traffic sensors](/plots/sensors.jpg)
