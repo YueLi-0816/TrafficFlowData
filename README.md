@@ -2,7 +2,7 @@
 
 ## General description
 
-This contains the source-code used to download and process the original traffic flow data from the open data portal provided by Glasgow City Council. 
+This contains the source-code used to download the original traffic flow data and generate the hourly traffic flow data from October 2019 to September 2023 in Glasgow. 
 
 All the code related to the traffic flow data is available in this repository (<https://github.com/YueLi-0816/TrafficFlowData>).
 
@@ -17,6 +17,5 @@ The map below shows the spatial distribution of all 1033 traffic sensors in Glas
 
 ## Funding 
 
-This project was developed at the [Urban Big Data Centre](https://www.ubdc.ac.uk/) and it was funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/), grant numbers:
-  * Urban Big Data Centre (XXX)
+This project is funded by the China Scholarship Council (CSC) from the Ministry of Education of P.R. China, the [Economic and Social Research Council (ESRC)]’s ongoing support for the Urban Big Data Centre (UBDC) [ES/L011921/1 and ES/S007105/1], and the Royal Society International Exchange Scheme [IEC\NSFC\223042].
 
