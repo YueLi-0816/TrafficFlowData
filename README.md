@@ -9,3 +9,14 @@ All the code related to the traffic flow data is available in this repository (<
 The map below shows the spatial distribution of all 1033 traffic sensors in Glasgow.
 
 ![Traffic sensors](/plots/sensors.jpg)
+
+## Realted resources
+
+  * The indicators can be downloaded at: <https://zenodo.org/XXX>.
+  * A technical note describing the indicators is available at: <https://zenodo.org/XXX>
+
+## Funding 
+
+This project was developed at the [Urban Big Data Centre](https://www.ubdc.ac.uk/) and it was funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/), grant numbers:
+  * Urban Big Data Centre (XXX)
+
