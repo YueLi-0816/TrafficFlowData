@@ -12,8 +12,7 @@ The map below shows the spatial distribution of all 1033 traffic sensors in Glas
 
 ## Realted resources
 
-  * The indicators can be downloaded at: <https://zenodo.org/XXX>.
-  * A technical note describing the indicators is available at: <https://zenodo.org/XXX>
+  * The indicators can be downloaded at: <https://zenodo.org/records/12100278>.
 
 ## Funding 
 
