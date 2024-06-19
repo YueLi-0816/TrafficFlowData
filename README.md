@@ -2,7 +2,7 @@
 
 ## General description
 
-This contains the source-code used to download the original traffic flow data and generate the hourly traffic flow data from October 2019 to September 2023 in Glasgow. 
+This contains the source-code used to download the original data and generate the hourly traffic flow data from October 2019 to September 2023 in Glasgow. 
 
 All the code related to the traffic flow data is available in this repository (<https://github.com/YueLi-0816/TrafficFlowData>).
 
@@ -12,7 +12,7 @@ The map below shows the spatial distribution of all 1033 traffic sensors in Glas
 
 ## Realted resources
 
-  * The indicators can be downloaded at: <https://zenodo.org/records/12100278>.
+  * The traffic flow data can be downloaded at: <https://zenodo.org/records/12100278>.
 
 ## Funding 
 
