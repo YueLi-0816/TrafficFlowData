@@ -10,10 +10,13 @@ The map below shows the spatial distribution of all 1033 traffic sensors in Glas
 
 ![Traffic sensors](/plots/sensors.jpg)
 
+## Paper citation
+
+Li, Y., Zhao, Q. and Wang, M. (2025) High-resolution traffic flow data from the urban traffic control system in Glasgow. Scientific Data, 12, 253. https://doi.org/10.1038/s41597-025-04494-y.
+
 ## Realted resources
 
   * The traffic flow data can be downloaded at: [Urban Big Data Centre (UBDC)](https://data.ubdc.ac.uk/datasets/high-resolution-traffic-flow-data-from-the-urban-traffic-control-system-in-glasgow) and <https://zenodo.org/records/12100278>.
-  * The Preprint paper is available at: <https://osf.io/preprints/osf/qgf2j>.
     
 ## Funding 
 
